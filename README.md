@@ -2,20 +2,6 @@
 
 - 🔭 I’m currently working on ...
 
-
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=CarlosHenriqueMkt&theme=dracula&count_private=true&hide=issues,contribs&show_icons=true" />
- 
- <br />
- <br />
-  
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosHenriqueMkt&theme=dracula&count_private=true&hide=issues,contribs&show_icons=true" />
-</a>
-
-
 <div align="center">
   <a href="https://github.com/CarlosHenriqueMkt">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CarlosHenriqueMkt&show_icons=true&theme=dracula&count_private=true&hide=issues,contribs"/>
