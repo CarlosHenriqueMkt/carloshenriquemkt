@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi, I'm Carlos a Front-End Developer that works remotely from Brazil. My passions are marketing and technology. Business, tech, communication, and gamer/nerd culture are my specialties.
 
-- 🔭 I’m currently working on ...
+I work in the communications market since 2016 and I had the opportunity to work with some of the biggest brands in Brazil and the world, among them, EA Sports, Razer, Chilli Beans, Aliansce Sonae, and Fallen Company. I have an excellent oratory, I have already led multidisciplinary communications teams.
 
 <div align="center">
   <a href="https://github.com/CarlosHenriqueMkt">
