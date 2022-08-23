@@ -1,4 +1,4 @@
-<p align="center>
+<p align="center">
 
 Hi, I'm Carlos a Front-End Developer that works remotely from Brazil. 
 
