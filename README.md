@@ -8,7 +8,7 @@ My passions are marketing and technology. Business, tech, communication, and gam
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosHenriqueMkt&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
-<div style="display: flex, flex-direction:row, justify-content: space-between, align-Items: center">
+<div style="display: flex", "flex-direction:row", "justify-content: space-between", "align-Items: center">
   <img align="center" alt="Carlos-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Carlos-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Carlos-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
