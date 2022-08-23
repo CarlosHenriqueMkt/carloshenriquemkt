@@ -1,10 +1,10 @@
-<p align="center">
+<div align="center">
 
 Hi, I'm Carlos a Front-End Developer that works remotely from Brazil. 
 
 My passions are marketing and technology. Business, tech, communication, and gamer/nerd culture are my specialties. I work in the communications market since 2016 and I had the opportunity to work with some of the biggest brands in Brazil and the world, among them, EA Sports, Razer, Chilli Beans, Aliansce Sonae, and Fallen Company.
 
-</p>
+</div>
 
 <br>
 
