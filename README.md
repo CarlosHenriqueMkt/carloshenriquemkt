@@ -10,8 +10,8 @@ My name is Carlos and my main passions are marketing and technology. Business, t
 
 <div align="center">
   <a href="https://github.com/CarlosHenriqueMkt">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CarlosHenriqueMkt&show_icons=true&theme=dracula&count_private=true&hide=issues,contribs"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosHenriqueMkt&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=CarlosHenriqueMkt&show_icons=true&theme=dracula&count_private=true&hide=issues,contribs"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosHenriqueMkt&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
 <div style="display: inline-block" align="center"><br>
