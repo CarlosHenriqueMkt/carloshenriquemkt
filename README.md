@@ -2,7 +2,7 @@
 
   <h1>I'm a UI Developer that works remotely from Brazil.</h1>
 
-My name is Carlos and my main passions are marketing and technology. Business, tech, communication, and gamer/nerd culture are my specialties. I work in the communications market since 2016 and I had the opportunity to work with some of the biggest brands in Brazil and the world, among them, EA Sports, Razer, Chilli Beans, Aliansce Sonae, and Fallen Company.
+I have been in the communication market since 2016 and I am passionate about marketing, design and technology. I have worked on international product and service launches, the creation of sales pages that generated 6-figure revenue, and advertising campaigns valued at over R$100,000.00 (one hundred thousand reais). I have excellent public speaking skills and have led multidisciplinary communication teams.
 
 </div>
 
