@@ -10,7 +10,7 @@ I have been in the communication market since 2016 and I am passionate about mar
 
 <div align="center">
   <a href="https://github.com/CarlosHenriqueMkt">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=CarlosHenriqueMkt&show_icons=true&theme=dracula&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=CarlosHenriqueMkt&show_icons=true&theme=dracula&count_private=true&hide=issues,contribs"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosHenriqueMkt&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
