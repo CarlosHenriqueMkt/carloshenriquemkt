@@ -2,7 +2,9 @@
 
   <h1>I'm a Front-End Dev & UI Designer that works remotely from Brazil.</h1>
 
-I have been in the communication market since 2016 and I am passionate about marketing, design and technology. I have worked on international product and service launches, the creation of sales pages that generated 6-figure revenue, and advertising campaigns valued at over R$100,000.00 (one hundred thousand reais). I have excellent public speaking skills and have led multidisciplinary communication teams.
+I have been working in the communication and technology industry since 2016, where I have developed a passion for marketing, design, technology, and entertainment. My experience includes working on international product and service launches, where I have created successful landing pages and advertising campaigns valued at over $100,000. 
+
+As a leader, I have a proven track record of effectively managing and collaborating with multidisciplinary communication teams. In addition, I possess excellent communication skills, including strong oratory abilities, which have contributed to my success in the industry.
 
 </div>
 
