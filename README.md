@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1>I'm a UI Developer that works remotely from Brazil.</h1>
+  <h1>I'm a Front-End Dev & UI Designer that works remotely from Brazil.</h1>
 
 I have been in the communication market since 2016 and I am passionate about marketing, design and technology. I have worked on international product and service launches, the creation of sales pages that generated 6-figure revenue, and advertising campaigns valued at over R$100,000.00 (one hundred thousand reais). I have excellent public speaking skills and have led multidisciplinary communication teams.
 
