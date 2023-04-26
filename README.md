@@ -10,24 +10,6 @@ As a leader, I have a proven track record of effectively managing and collaborat
 
 <br>
 
-<div align="center">
-  <a href="https://github.com/CarlosHenriqueMkt">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=CarlosHenriqueMkt&show_icons=true&theme=dracula&count_private=true&hide=issues,contribs"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosHenriqueMkt&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-  
-<div style="display: inline-block" align="center"><br>
-  <img align="center" alt="Carlos-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Carlos-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Carlos-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-  <img align="center" alt="Carlos-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Carlos-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Carlos-Sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
-  <img align="center" alt="Carlos-MaterialUI" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />
-  <img align="center" alt="Carlos-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" />
-  <img align="center" alt="Carlos-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-</div>
-
   ##
   
 <div align="center">  
