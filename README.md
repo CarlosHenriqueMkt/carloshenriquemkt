@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1>I'm a Front-End Dev & UI Designer that works remotely from Brazil.</h1>
+  <h1>I'm a Front-End React Engineer working remotely from Brazil.</h1>
 
 I have been working in the communication and technology industry since 2016, where I have developed a passion for marketing, design, technology, and entertainment. My experience includes working on international product and service launches, where I have created successful landing pages and advertising campaigns valued at over $100,000. 
 
