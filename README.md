@@ -2,9 +2,7 @@
 
   <h1>I'm a Front-End React Engineer working remotely from Brazil.</h1>
 
-I have been working in the communication and technology industry since 2016, where I have developed a passion for marketing, design, technology, and entertainment. My experience includes working on international product and service launches, where I have created successful landing pages and advertising campaigns valued at over $100,000. 
-
-As a leader, I have a proven track record of effectively managing and collaborating with multidisciplinary communication teams. In addition, I possess excellent communication skills, including strong oratory abilities, which have contributed to my success in the industry.
+3 years of experience in Front-End with a proven track record creating international product and service launches. Skilled in creating highly effective landing pages that have generated over $100,000 in combined value. Possesses excellent communication skills, including strong critical thinking abilities.
 
 </div>
 
