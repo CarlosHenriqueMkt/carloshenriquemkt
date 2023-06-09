@@ -2,7 +2,7 @@
 
   <h1>I'm a Front-End React Engineer working remotely from Brazil.</h1>
 
-3 years of experience in Front-End with a proven track record creating international product and service launches. Skilled in creating highly effective landing pages that have generated over $100,000 in combined value. Possesses excellent communication skills, including strong critical thinking abilities.
+3 years of experience in Front-End with a proven track record creating international product and service launches. Skilled in creating highly effective landing pages that have generated over $100,000 in combined value. Possesses excellent communication skills.
 
 </div>
 
