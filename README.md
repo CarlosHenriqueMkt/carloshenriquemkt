@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1>I'm a Front-End React Engineer working remotely from Brazil.</h1>
+  <h1>Software Engineer working remotely from Brazil.</h1>
 
 Versatile professional with 7 years of marketing expertise and 2 years of Front-End React development experience, specializing in Next.js. Proven track record of devising and executing result-driven marketing strategies, while also delivering visually stunning and user-friendly web applications. Adept at bridging the gap between marketing objectives and front-end implementation to create seamless and engaging user experiences. Passionate about leveraging cross-functional skills to drive innovation and deliver exceptional results.
 
