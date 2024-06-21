@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1>Software Engineer — Next.js, Three.js, GSAP, Blender and Figma.</h1>
+  <h1>3D Software Engineer — Next.js, Three.js, GSAP and Blender.</h1>
 
 As a Software Engineer at Eclipseworks, I apply my marketing background and front-end development skills to create web applications that are visually stunning and user-friendly. I specialize in Next.js, a React framework that enables fast and optimized performance, and I have experience with other technologies such as Three.js, GSAP, Blender, and Figma.
 
