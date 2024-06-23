@@ -1,10 +1,8 @@
 <div align="center">
 
-  <h1>3D Software Engineer — Next.js, Three.js, GSAP and Blender.</h1>
+  <h1>SOFTWARE ENGINEER WITH EXPERTISE IN 3D VISUALIZATION AND INTERACTIVITY</h1>
 
-As a Software Engineer at Eclipseworks, I apply my marketing background and front-end development skills to create web applications that are visually stunning and user-friendly. I specialize in Next.js, a React framework that enables fast and optimized performance, and I have experience with other technologies such as Three.js, GSAP, Blender, and Figma.
-
-In my previous roles, I have demonstrated my versatility and creativity by devising and executing result-driven marketing strategies, while also delivering web solutions that meet the needs and expectations of the clients and users. I have successfully completed projects for various industries, such as e-sports, education, and entertainment, increasing user retention, engagement, and satisfaction. I am passionate about leveraging my cross-functional skills to drive innovation and deliver exceptional results.
+Driven by nearly a decade of industry experience and over 5 million in sales generated from campaigns since 2019, I bring a wealth of knowledge and proven success to every project. I leverage my front-end development skills and marketing background to create visually stunning and user-friendly web applications. Specializing in Three.js, GSAP, and Blender, I implement and animate 3D assets to enhance the visual appeal and interactivity of web projects.
 </div>
 
 <div style="display: inline-block" align="center"><br>
