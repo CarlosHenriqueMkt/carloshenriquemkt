@@ -1,8 +1,8 @@
 <div align="center">
 
-  <h1>Frontend Specialized in 3D Visualization and Interactivity</h1>
+  <h1>React & NextJS Specialist with FullStack Experience using T3 Stack</h1>
 
-Driven by nearly a decade of industry experience and over 5 million in sales generated from campaigns since 2019, I bring a wealth of knowledge and proven success to every project. I leverage my front-end development skills and marketing background to create visually stunning and user-friendly web applications. Specializing in Three.js, GSAP, and Blender, I implement and animate 3D assets to enhance the visual appeal and interactivity of web projects.
+With three years of experience as a developer, I specialize in crafting dynamic, high-performance front-end experiences using JavaScript frameworks, Node.js, and GSAP. Additionally, my experience with Next.js enables me to create fast and optimized applications.
 </div>
 
   ##
