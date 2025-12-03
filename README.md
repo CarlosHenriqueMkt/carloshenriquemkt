@@ -1,8 +1,8 @@
 <div align="center">
 
-  <h1>React & NextJS Specialist with FullStack Experience using T3 Stack</h1>
+  <h1>Head of Growth at RUDU</h1>
 
-With three years of experience as a developer, I specialize in crafting dynamic, high-performance front-end experiences using JavaScript frameworks, Node.js, and GSAP. Additionally, my experience with Next.js enables me to create fast and optimized applications.
+Head of Growth and Product Management with 10+ years in product, technology, and growth. Led Go-to-Market strategies and product development, generating over R$ 5M in sales through digital marketing, inbound, and funnel optimization. Managed cross-functional teams using React/Next.js, T3 Stack, and Node.js to reduce development time and bugs while improving performance and conversions. Focused on data-driven growth by aligning teams for faster time-to-market and strong user retention through product strategy, SEO, and serverless solutions.
 </div>
 
   ##
