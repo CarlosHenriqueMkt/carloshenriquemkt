@@ -1,8 +1,12 @@
 <div align="center">
 
-  <h1>Head of Growth at RUDU</h1>
+# Hi, I'm Carlos Henrique 👋
 
-Head of Growth and Product Management with 10+ years in marketing, sales, and technology. Led Go-to-Market strategies and product development, generating over R$ 5M in sales through digital marketing, inbound, and funnel optimization. Managed cross-functional teams using React/Next.js and Node.js to reduce development time and bugs while improving performance and conversions. Focused on data-driven growth by aligning teams for faster time-to-market and strong user retention through product strategy, SEO, and serverless solutions.
+I'm a Technical Product Manager and Fullstack Developer with a multidisciplinary background in product management, frontend development, marketing, sales, GTM strategy, and entrepreneurship.
+
+I build digital products from strategy to execution, connecting business goals, user experience, and technical implementation. My main stack includes JavaScript, React, Next.js, Node.js, Sass, GSAP, and Figma.
+
+I have experience with financial products, web platforms, product-led growth, go-to-market strategy, and end-to-end product delivery.
 </div>
 
   ##
