@@ -4,7 +4,7 @@
 
 I'm a Technical Product Manager and Fullstack Developer with a multidisciplinary background in product management, frontend development, marketing, sales, GTM strategy, and entrepreneurship.
 
-I build digital products from strategy to execution, connecting business goals, user experience, and technical implementation. My main stack includes JavaScript, React, Next.js, Node.js, Sass, GSAP, and Figma.
+I build digital products from strategy to execution, connecting business goals, user experience, and technical implementation. My main stack includes Next.js and Node.js.
 
 I have experience with financial products, web platforms, product-led growth, go-to-market strategy, and end-to-end product delivery.
 </div>
