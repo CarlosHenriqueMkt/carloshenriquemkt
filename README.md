@@ -16,9 +16,6 @@ A city landing page with a working solar estimate, an interactive Three.js house
 **[AI Linear Workflow](https://github.com/CarlosHenriqueMkt/ai-linear-workflow)**  
 Portable Linear commands that take one product request from discovery to a reviewed pull request, with auditable evidence along the way.
 
-**[ENSO Brasil](https://github.com/CarlosHenriqueMkt/enso-brasil)**  
-An open-source public dashboard, in Portuguese, that aggregates active climate threats by Brazilian state from official sources.
-
 **3D studies**  
 Experiments with Three.js and React Three Fiber: a [product customizer](https://github.com/CarlosHenriqueMkt/r3f-product-customizer), [scene transitions](https://github.com/CarlosHenriqueMkt/r3f-transition-study) and [immersive backgrounds](https://github.com/CarlosHenriqueMkt/threejs-immersive-background).
 
